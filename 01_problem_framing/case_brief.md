@@ -345,7 +345,7 @@ updated in this document before the BRD is finalised.*
 
 ---
 
-*Document version: 2.0 — Updated with analyst hypotheses*
-*Prepared by: [Your Name] — Junior BA/DA*
+
+*Prepared by: [Geethika]
 *Project: LendFast Conversion Optimisation Engagement*
 *Status: Approved for use as project foundation*
