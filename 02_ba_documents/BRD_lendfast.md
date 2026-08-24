@@ -20,7 +20,7 @@
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 0.1 | August 2026 | [Your Name] | Initial draft — Executive Summary |
+| 0.1 | August 2026 | Geethika| Initial draft — Executive Summary |
 
 ---
 
@@ -1165,7 +1165,7 @@ Approval signifies agreement to:
 | Finance Head | | | |
 | Sales and Marketing Head | | | |
 | Operations Head | | | |
-| Lead BA | [Your Name] | | |
+| Lead BA | Geethika | | |
 
 ---
 
