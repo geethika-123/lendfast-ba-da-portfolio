@@ -9,7 +9,7 @@
 | Project Name | LendFast Application Conversion Optimisation |
 | Version | 0.1 — Draft |
 | Status | In Progress |
-| Prepared By | [Your Name] — Junior BA/DA |
+| Prepared By | Geethika|
 | Reviewed By | [To be assigned] |
 | Date Created | August 2026 |
 | Last Updated | August 2026 |
