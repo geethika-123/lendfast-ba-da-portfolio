@@ -9,7 +9,7 @@
 | Project Name | LendFast Application Conversion Optimisation |
 | Version | 0.1 — Draft |
 | Status | In Progress |
-| Prepared By | Geethika|
+| Prepared By | Geethika Vissapragada |
 | Reviewed By | [To be assigned] |
 | Date Created | August 2026 |
 | Last Updated | August 2026 |
@@ -20,26 +20,26 @@
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 0.1 | August 2026 | Geethika| Initial draft — Executive Summary |
+| 0.1 | August 2026 | Geethika Vissapragada | Initial draft — Executive Summary |
 
 ---
 
 ## Table of Contents
 
 1. Executive Summary
-2. Business Objectives 
-3. Problem Statement 
-4. Project Scope 
-5. Stakeholder Register 
-6. Current State Overview 
-7. Assumptions and Constraints 
-8. Dependencies 
-9. Functional Requirements 
-10. Non-Functional Requirements 
-11. KPIs and Success Metrics 
-12. Risk Summary 
-13. Acceptance Criteria 
-14. Approvals 
+2. Business Objectives *(to be completed)*
+3. Problem Statement *(to be completed)*
+4. Project Scope *(to be completed)*
+5. Stakeholder Register *(to be completed)*
+6. Current State Overview *(to be completed)*
+7. Assumptions and Constraints *(to be completed)*
+8. Dependencies *(to be completed)*
+9. Functional Requirements *(to be completed)*
+10. Non-Functional Requirements *(to be completed)*
+11. KPIs and Success Metrics *(to be completed)*
+12. Risk Summary *(to be completed)*
+13. Acceptance Criteria *(to be completed)*
+14. Approvals *(to be completed)*
 
 ---
 
@@ -74,7 +74,7 @@ upload step — will be implemented to accelerate early conversion
 improvements during the analysis period.
 
 LendFast currently has approximately 45,000 registered users of whom
-an estimated [X]% have completed a loan application, representing
+an estimated 18.2% have completed a loan application, representing
 the active revenue-generating customer base. The remaining registered
 users represent a pool of warm leads who demonstrated intent by
 initiating an application but did not complete it. Converting these
@@ -97,8 +97,8 @@ before the document is finalised.*
 
 ---
 
-*Document version: 0.1 — Draft*
-*Prepared by: [Your Name] — Junior BA/DA*
+*Document version: 1.0 — Updated with EDA findings*
+*Prepared by: Geethika Vissapragada*
 *Project: LendFast Conversion Optimisation Engagement*
 *Status: In Progress*
 
@@ -401,11 +401,11 @@ completion of the exploratory data analysis phase.*
 
 | Metric | Current Value | Industry Benchmark | Source |
 |---|---|---|---|
-| Application completion rate | [X]% | ~37% | Signicat, 2025 |
+| Application completion rate | 18.2% | ~37% | Signicat, 2025 |
 | Step-level drop-off rates | [X]% per step | TBD | EDA output |
-| Mobile vs desktop completion gap | [X]% | TBD | EDA output |
-| Self-employed completion rate | [X]% | TBD | EDA output |
-| Cost per funded loan | Rising — exact figure TBD | TBD | Finance team |
+| Mobile vs desktop completion gap | 16.9pp (mobile 12.1% vs desktop 29.0%) | Within 10pp | EDA output |
+| Self-employed completion rate | 12.8% vs employed 19.6% | Within 15pp of employed | EDA output |
+| Cost per funded loan | Rising — exact figure TBD | Reduce via conversion improvement | Finance team |
 | Monthly application starts | ~6,200 | N/A | CEO kickoff |
 
 ---
@@ -1165,14 +1165,46 @@ Approval signifies agreement to:
 | Finance Head | | | |
 | Sales and Marketing Head | | | |
 | Operations Head | | | |
-| Lead BA | Geethika | | |
+| Lead BA | Geethika Vissapragada | | |
 
 ---
 
 *This document is version 0.1 — Draft. It will be updated to
 version 1.0 — Final upon receipt of all signatures above.*
 
-*Document prepared by: [Your Name] — Junior BA/DA*
+*Document prepared by: Geethika Vissapragada*
 *Project: LendFast Conversion Optimisation Engagement*
 *Date: August 2026*
+
+
+---
+
+### Risk Matrix
+
+The following matrix plots each risk by likelihood and impact
+to provide an at-a-glance view of priority for mitigation and
+monitoring.
+
+```
+                 LOW IMPACT      MEDIUM IMPACT     HIGH IMPACT
+                 ─────────────────────────────────────────────
+HIGH             │               │                 │ R-01
+LIKELIHOOD       │               │                 │ R-02
+                 │               │                 │ R-06
+                 ─────────────────────────────────────────────
+MEDIUM           │               │ R-03            │ R-05
+LIKELIHOOD       │               │ R-04            │
+                 ─────────────────────────────────────────────
+LOW              │               │                 │
+LIKELIHOOD       │               │                 │
+                 ─────────────────────────────────────────────
+```
+
+**Risk Priority Guide:**
+
+| Zone | Risks | Action Required |
+|---|---|---|
+| High Likelihood / High Impact | R-01, R-02, R-06 | Critical — immediate mitigation required. Review weekly in executive steering meetings |
+| Medium Likelihood / Medium Impact | R-03, R-04 | High — active monitoring required. Review fortnightly |
+| Medium Likelihood / High Impact | R-05 | High — low probability but severe consequence. Involve Compliance Officer in all requirements reviews |
 

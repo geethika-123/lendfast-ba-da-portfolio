@@ -9,7 +9,7 @@
 | Project Name | LendFast Application Conversion Optimisation |
 | Version | 1.0 |
 | Status | Draft |
-| Prepared By | Geethika |
+| Prepared By | Geethika Vissapragada |
 | Date | August 2026 |
 | BRD Reference | BRD_lendfast.md — Section 9 (Functional Requirements) |
 
@@ -164,8 +164,8 @@ Notes: Events must include step completions, field skips, page load errors, sess
 | Field | Detail |
 |---|---|
 | FR Reference | FR-08 |
-| Priority | Low |
-| Status | Provisional — pending Hypothesis 2 validation |
+| Priority | High |
+| Status | Confirmed — H2 validated by EDA. Self-employed Step 2 drop-off: 32.6% vs employed 9.8% (22.8pp gap) |
 
 *As a self-employed loan applicant,*
 *I want to see fields that are relevant to my employment situation at Steps 2 and 3,*
@@ -196,7 +196,7 @@ Notes: Notification must only trigger when abandonment is user-initiated — not
 | Field | Detail |
 |---|---|
 | FR Reference | FR-10 |
-| Priority | Low |
+| Priority | High |
 | Status | Provisional — pending mobile drop-off confirmation |
 
 *As a loan applicant,*
@@ -225,6 +225,6 @@ Notes: Must be visible on all device types throughout the entire application jou
 ---
 
 *Document version: 1.0*
-*Prepared by: Geethika
+*Prepared by: Geethika Vissapragada*
 *Project: LendFast Conversion Optimisation Engagement*
 *Status: Draft — pending stakeholder review*

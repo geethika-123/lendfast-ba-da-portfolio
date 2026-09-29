@@ -255,6 +255,7 @@ technical failures — application errors, session timeouts, and
 upload failures — rather than user choice. This cannot be
 assessed from the current transactional dataset alone and
 requires telemetry data for validation.
+*EDA Result: Cannot be assessed — telemetry data required
 *Test: Analyse time_on_application_mins at technically complex
 steps as a proxy indicator. Full validation requires error logs
 and session recording data not currently available.*
@@ -283,8 +284,8 @@ addressing confusion before abandonment occurs.
 
 | Metric | Baseline | Target | Timeline |
 |---|---|---|---|
-| Overall completion rate | TBD from data | 45–50% | 6 months |
-| Step 6 drop-off rate | TBD from data | Below 30% | 6 months |
+| Overall completion rate | 18.2% | 45–50% | 6 months |
+| Step 6 drop-off rate | 66.8% | Below 30% | 6 months |
 | Mobile completion rate | TBD from data | Within 10% of desktop | 6 months |
 | Self-employed completion rate | TBD from data | Within 15% of employed | 6 months |
 
@@ -331,6 +332,6 @@ addressing confusion before abandonment occurs.
 ---
 
 *Document version: 3.0*
-*Prepared by: [Geethika]*
+*Prepared by: Geethika Vissapragada*
 *Project: LendFast Conversion Optimisation Engagement*
 *Status: Foundation document — approved for project use*
