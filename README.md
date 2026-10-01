@@ -81,6 +81,7 @@ starts. The recommended interventions target this point directly.
 | Power BI Dashboard | Executive-facing conversion funnel and KPI tracking | ⏳ Upcoming |
 | Impact Analysis | Business impact estimates per confirmed recommendation | ⏳ Upcoming |
 
+https://datastudio.google.com/s/tvNzMVINxaY
 ---
 
 ## Project Structure
