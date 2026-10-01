@@ -194,7 +194,7 @@ lending platforms today.
 | EDA notebook — funnel and segmentation analysis | ✅ Complete |
 | Hypothesis validation | ✅ Complete |
 | As-Is and To-Be process flows | ⏳ Upcoming |
-| Power BI dashboard | ⏳ Upcoming |
+| Power BI dashboard | ✅ Complete |
 | Impact analysis | ⏳ Upcoming |
 
 ---
