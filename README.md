@@ -80,8 +80,7 @@ starts. The recommended interventions target this point directly.
 | To-Be Process Flow | Redesigned process incorporating recommendations | ⏳ Upcoming |
 | Power BI Dashboard | Executive-facing conversion funnel and KPI tracking | ⏳ Upcoming |
 | Impact Analysis | Business impact estimates per confirmed recommendation | ⏳ Upcoming |
-
-https://datastudio.google.com/s/tvNzMVINxaY
+| [Dashboard](https://datastudio.google.com/s/tvNzMVINxaY) | Looker Studio — 4 pages, executive summary, segmentation, KPI tracking, hypothesis scorecard | ✅ Complete |
 ---
 
 ## Project Structure
